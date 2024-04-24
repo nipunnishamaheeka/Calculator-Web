@@ -49,6 +49,7 @@ button:active{
     text-align: left;
     border: none;
     background-color: hsl(0, 0%, 25%);
+    color: white;
 }
 #keys{
     display: grid;
