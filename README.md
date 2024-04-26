@@ -30,6 +30,10 @@ How to Use:
 Contributions:
 
 - Contributions are welcome! Feel free to submit pull requests for any enhancements or bug fixes.
+
+
+![Screenshot 2024-04-26 095309](https://github.com/nipunnishamaheeka/Calculator-Web/assets/115369622/812b6adf-5bf3-4ebb-b099-176fd3378b66)
+
 ## License
 
 This project is licensed under the MIT License. [MIT](https://shields.io/)
